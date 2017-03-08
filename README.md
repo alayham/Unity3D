@@ -2,7 +2,7 @@
 
 #About:
 
-This repository contains a git-ready blank Unity 2D project. It is created for the students of LBS Creativa Gymnasiet in Halmstad, Sweden.
+This repository contains a git-ready blank Unity 3D project. It is created for the students of LBS Creativa Gymnasiet in Halmstad, Sweden.
 
 #How to use:
 
